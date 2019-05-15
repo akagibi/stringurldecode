@@ -1,5 +1,5 @@
 {
-    "name": "akagibi/string-urldecode",
+    "name": "akagibi/stringurldecode",
     "description": "Twig filters to urldecode a string.",
     "type": "craft-plugin",
     "version": "1",
@@ -11,8 +11,8 @@
         "string urldecode"
     ],
     "support": {
-        "docs": "https://github.com/akagibi/string-urldecode/blob/master/README.md",
-        "issues": "https://github.com/akagibi/string-urldecode/issues"
+        "docs": "https://github.com/akagibi/stringurldecode/blob/master/README.md",
+        "issues": "https://github.com/akagibi/stringurldecode/issues"
     },
     "license": "MIT",
     "authors": [
@@ -31,10 +31,10 @@
     },
     "extra": {
         "name": "String Urldecode",
-        "handle": "string-urldecode",
+        "handle": "stringurldecode",
         "hasCpSettings": false,
         "hasCpSection": false,
-        "changelogUrl": "https://raw.githubusercontent.com/akagibi/string-urldecode/master/CHANGELOG.md",
+        "changelogUrl": "https://raw.githubusercontent.com/akagibi/stringurldecode/master/CHANGELOG.md",
         "class": "akagibi\\stringurldecode\\StringUrldecode"
     }
 }
