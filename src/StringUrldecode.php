@@ -69,7 +69,7 @@ class StringUrldecode extends Plugin
 
         Craft::info(
             Craft::t(
-                'string-urldecode',
+                'stringurldecode',
                 '{name} plugin loaded',
                 ['name' => $this->name]
             ),
