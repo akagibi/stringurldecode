@@ -24,7 +24,7 @@ To install the plugin, follow these instructions.
 
 Input:
 
-    {{ "Text%20without%20space" | base64enc }}
+    {{ "Text%20without%20space" | urldecode }}
 
 Output:
 
