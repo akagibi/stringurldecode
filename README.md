@@ -4,7 +4,7 @@ Twig filters to urldecode a string.
 
 ## Requirements
 
-This plugin requires Craft CMS 3.
+This plugin requires Craft CMS 3.x
 
 ## Installation
 
